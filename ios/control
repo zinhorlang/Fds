@@ -1,0 +1,11 @@
+Package: com.mcord17.tweak
+Name: zy
+Version: 1.0.7
+Architecture: iphoneos-arm
+Description: zy for Discord on iOS: plugins, themes and privacy
+Maintainer: rootpoi
+Author: rootpoi and contributors, based on RainTweak by cocobo1 and Bwlok
+Icon: <https://raw.githubusercontent.com/zinhorlang/Fds/next/bundle/src/assets/icons/zy.png>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: app.enmity, mod.vendetta, app.unbound, com.cloudysnow.btloader, app.pyoncord, cocobo1.kettu.tweak, dev.raincord.tweak
