@@ -1,0 +1,32 @@
+{
+    "format": 1,
+    "sequence": 1795000030,
+    "commit": "a9342d86e2e364d59430c5db64182a02aedbe384",
+    "files": {
+        "zy-installer.apk": {
+            "size": 20194221,
+            "sha256": "b065452e0dc72b9068d8c8711b20bf3c6477fd732c9fba30855f871667a2d413",
+            "url": "https://raw.githubusercontent.com/zinhorlang/Fds/0ef126cdc31735f5503084a470d5fe3ee5ebbe94/zy-installer.apk"
+        },
+        "zy-xposed.apk": {
+            "size": 6995950,
+            "sha256": "10d6aa47c3d866356d89c53ce0ff57e09c1fd5f9670be3c30c598eaf7679d3d8",
+            "url": "https://raw.githubusercontent.com/zinhorlang/Fds/0ef126cdc31735f5503084a470d5fe3ee5ebbe94/zy-xposed.apk"
+        },
+        "zy.min.js": {
+            "size": 1314093,
+            "sha256": "5144960f4d074b3300f7aa234d63f8816e2ce42158dc7e22167150c2b81df03b",
+            "url": "https://raw.githubusercontent.com/zinhorlang/Fds/0ef126cdc31735f5503084a470d5fe3ee5ebbe94/zy.min.js"
+        },
+        "zy.v98.hbc": {
+            "size": 2602819,
+            "sha256": "66ea8712ac6354656a71b421ee8a1facc9aec074a57336e47358beb60eb0cd2d",
+            "url": "https://raw.githubusercontent.com/zinhorlang/Fds/0ef126cdc31735f5503084a470d5fe3ee5ebbe94/zy.v98.hbc"
+        },
+        "zy.v99.hbc": {
+            "size": 2580684,
+            "sha256": "edfb90c964adbb5b763c6af365825e2b4fc68d7abc8d36f4ddb7ecff1cf917e3",
+            "url": "https://raw.githubusercontent.com/zinhorlang/Fds/0ef126cdc31735f5503084a470d5fe3ee5ebbe94/zy.v99.hbc"
+        }
+    }
+}
