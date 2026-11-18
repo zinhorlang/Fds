@@ -198,7 +198,8 @@ jobs:
           git add -A
           git commit -m "Build ${{ github.sha }}"
           if [ -n "$_17MCORD_RELEASE_KEY" ]; then
-            ZY_RELEASE_BASE_URL="https://raw.githubusercontent.com/$GITHUB_REPOSITORY/$(git rev-parse HEAD)/" \
+            ZY_RELEASE_KEY="$_17MCORD_RELEASE_KEY" \
+              ZY_RELEASE_BASE_URL="https://raw.githubusercontent.com/$GITHUB_REPOSITORY/$(git rev-parse HEAD)/" \
               ZY_RELEASE_PUBLIC_KEY_FILE="$RUNNER_TEMP/signing/release-key.pub" \
               node "$RUNNER_TEMP/signing/sign-release.mjs" .
             git add -A
