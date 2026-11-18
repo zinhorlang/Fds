@@ -1,0 +1,11 @@
+{
+  "bundle": "zy.min.js",
+  "bytecode": ["zy.v98.hbc","zy.v99.hbc"],
+  "loader": "zy-xposed.apk",
+  "installer": "zy-installer.apk",
+  "classicInstaller": "zy-classic-installer.apk",
+  "loaderVersion": "1.0.0",
+  "loaderVersionCode": 1,
+  "commit": "a9342d86e2e364d59430c5db64182a02aedbe384",
+  "builtAt": "2026-11-18T11:07:06Z"
+}
